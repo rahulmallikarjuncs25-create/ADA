@@ -45,7 +45,7 @@ int main() {
     }
     return 0;
 }
-/*
+
 OUTPUT
 Enter number of vertices: 4
 Enter adjacency matrix (0 for no edge):
@@ -59,4 +59,3 @@ Shortest distance matrix:
 5 0 2 3
 3 6 0 1
 2 5 7 0
-*/
